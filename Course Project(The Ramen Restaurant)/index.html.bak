@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<meta name="viewport" content="width=device-width, initial scale=1.0">
+<head>
+<title>Home page</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="ramen.css">
+</head>
+<header>
+<h1>The Ramen Restaurant<a href="index.html"></a></h1>
+</header>
+<nav>
+	<ul>
+		<li><a href="index.html">Home</a></li>
+		<li><a href="menu.html">Menu</a></li>
+		<li><a href="recipe.html">Recipe</a></li>
+		<li><a href="about.html">About</a></li>
+		<li><a href="contact.html">Contact</a></li>
+	</ul>
+</nav>
+<body>
+<div id="flow">
+<div class="gallery">
+  <a target="_blank" href="images/ramen(entree).jpg">
+    <img src="images/ramen(entree).jpg" alt="Ramen">
+	 <figcaption>&copy;Hy-Vee Seasons Magazine</figcaption>
+  </a>
+  <div class="desc">One of the most popular dishes we serve here at The Ramen Restaurant. The ramen bowl is very flavorful, the broth is a family recipe with 
+  rice noodles made daily and a meat of your choice served with a nice portion of vegetables. This brings the delectable dish many people would usually travel out of the country
+  for right in front of you with the best service attached to it as well.</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="images/eggroll(1).jpg">
+    <img src="images/eggroll(1).jpg" alt="Eggroll">
+	<figcaption>&copy;2016 DINNERS DISHES AND DESSERTS</figcaption>
+  </a>
+  <div class="desc">Here is one of the most popular appetizers The Ramen Restaurant serves. These popular eggrolls are favored amoungest everyone that comes in and is always 
+  reccommended by are staff with the reassurence that this eggrolls will be ones you never forget. The Eggrols are made by hand with nothing but the best ingredients and spices to make every 
+  bite you take better than the last one.</div>
+</div>
+<div class="gallery">
+  <a target="_blank" href="images/beefandbroccolisoup(1).jpg">
+    <img src="images/beefandbroccolisoup(1).jpg" alt="Beef and Broccoli Soup">
+	<figcaption>&copy;2022 BAREFEETINTHEKITCHEN.COM</figcaption>
+  </a>
+  <div class="desc">The picture above is a dish we decided to mix two favorite dishes into one. Here is the Broccoli and Beef soup, this soup is a chefs favorite.
+  Instead of your traditional Broccoli and Beef that is just servered on a plate, our chefs decided to make there own verison and make it a soup 
+that lets the broccoli and beef soak in our family recipe broth and adds much more flavor to a traditional dish.</div>
+</div>
+</div>
+</body>
+<footer>
+		The Ramen Restaurant &copy; 2022<br>
+		Michael Boatwright:<a href="mailto:michael_boatwright@stu.centralaz.edu">michael_boatwright@stu.centralaz.edu</a><br>
+		Web designer
+</footer>
+</html>
