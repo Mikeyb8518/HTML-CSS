@@ -1,0 +1,37 @@
+body { background-color: antiquewhite; }
+
+body .aprilla { background-image: url(Aprilla/RS660.jpg);
+background-repeat: no-repeat;
+height: 700px;
+width: fit-content;    
+padding-top: 90px;
+background-position: left;    
+}
+
+.specs { font-size: 1.4em;
+padding-left: 750px;
+}
+
+h1 { text-align: center;
+text-align: top;
+font-size: 8em;
+padding-left: 850px;
+margin-top: auto; 
+}
+
+h2 { text-align: center;
+padding-top: 50px;
+font-size: 2.8em;
+padding-left: 200px; 
+}
+
+nav { text-align: center;
+padding-left: 150px; 
+}
+
+ul { font-size: 1.3em; 
+padding-left: 250px;
+position:static; 
+}
+
+footer .BeARacer { background-image: url(Aprilla/racer.jpg); }
